@@ -62,4 +62,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: SidorenkoTatiana/taski_backend:latest 
+          tags: sidorenkotatiana/taski_backend:latest 
